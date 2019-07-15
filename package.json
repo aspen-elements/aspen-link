@@ -1,0 +1,20 @@
+{
+  "description": "This component allows the user to  navigate to an external web page when  and ID is given as input. For example, the  ID given is a stock ticker symbol, the  component will send the user to Yahoo  Finance.",
+  "name": "@polymer/aspen-link",
+  "version": "",
+  "resolutions": {
+    "inherits": "2.0.3",
+    "samsam": "1.1.3",
+    "supports-color": "3.1.2",
+    "type-detect": "1.0.0"
+  },
+  "main": "aspen-link.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0",
+    "wct-browser-legacy": "^1.0.1",
+    "@webcomponents/webcomponentsjs": "^2.0.0"
+  }
+}
