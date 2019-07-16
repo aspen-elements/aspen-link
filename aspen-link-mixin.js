@@ -100,6 +100,8 @@
 				url = `${linkMap.get(linktype)}${_id}`;
 			}
 
+			console.log(url)
+
 			return url;
 		}
 

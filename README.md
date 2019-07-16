@@ -1,4 +1,4 @@
-# \<aspen-link\>
+# <aspen-link\>
 
 This component allows the user to  navigate to an external web page when  and ID is given as input. For example, the  ID given is a stock ticker symbol, the  component will send the user to Yahoo  Finance.
 
