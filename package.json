@@ -16,5 +16,27 @@
     "@polymer/iron-demo-helpers": "^3.0.0",
     "wct-browser-legacy": "^1.0.1",
     "@webcomponents/webcomponentsjs": "^2.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspen-elements/aspen-link.git"
+  },
+  "keywords": [
+    "web-components",
+    "aspen-elements",
+    "aspen",
+    "link"
+  ],
+  "author": "Mark Fortner, Ishan Subedi, Marko Ignjatovic, Suyash Adhikary",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/aspen-elements/aspen-link/issues"
+  },
+  "homepage": "https://github.com/aspen-elements/aspen-link#readme"
 }
